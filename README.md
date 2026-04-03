@@ -18,7 +18,7 @@
 
 ### `$ whoami`
 
-**MD Tanvir Anjum** — co-founder of **[Void Studio](https://voidstudio.co.uk)**, a custom software and AI automation agency based in Wales, UK.
+**MD Tanvir Anjum** — co-founder of **[Void Studio](https://voidstudiotech.co.uk)**, a custom software and AI automation agency based in Wales, UK.
 
 I build agentic AI systems, data-intensive platforms, and operational software for SMEs and growing businesses across the UK and EU. My work sits at the intersection of technical depth and commercial impact — I care as much about the 150% conversion uplift as I do about the architecture that produced it.
 
